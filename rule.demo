@@ -1,0 +1,7 @@
+re:(;|；)(p|P).*(larix|Larix|LARIX) =>  项目名: example
+- 类型: TYPE
+- 网络：#XXXX
+- 代币：TOKEN; LINK TO K 
+- 交易：LINK TO SWAP
+> 官网：https://example.com
+> Twitter：https://twitter.com/example

@@ -1,10 +1,13 @@
-/add re:(;|；)(p|P).*(olive|OLIVE|Olive|橄榄)===🔦 **项目名:** OliveSwap
+re:(;|；)(p|P).*(olive|OLIVE|Olive|橄榄)===🔦 **项目名:** OliveSwap
 ⛓️ **网络:** #BSC #Avalanche #Fantom
 🌐 **官网:** https://fantom.olive.cash/
 🕊️ **Twitter:** https://twitter.com/olivecashbsc
 🪙 **代币:** fOLIVE, https://ftmscan.com/token/0xa9937092c4e2b0277c16802cc8778d252854688a
 💹 **K图:** https://kek.tools/t/0xa9937092c4e2b0277c16802cc8778d252854688a
 
-/add re:(吹水|Fantom|DeFi|defi).*群===群主日常出没的吹水群：
-FTM中文群 @FantomChinese
-浣熊哥群 @RaccoonCrypto
+re:(;|；)(p|P).*(larix|Larix|LARIX) =>  项目名: Larix
+- 类型: 借贷
+- 网络：#SOL
+- 代币：LARIX（暂未 IDO）
+> 官网：https://projectlarix.com
+> Twitter：https://twitter.com/ProjectLarix
